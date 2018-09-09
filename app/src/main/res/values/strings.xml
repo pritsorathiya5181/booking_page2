@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">booking_page</string>
+    <string name="Source_sta">Source</string>
+    <string name="Dest_sta">Destination</string>
+    <string-array name="sta_array">
+        <item>Mumbai (BOM)</item>
+        <item>New Delhi (DEL)</item>
+        <item>Bengaluru (BLR)</item>
+        <item>Channai (MAA)</item>
+        <item>Kolkata (CCU)</item>
+        <item>Lucknow (LKO)</item>
+        <item>Pune (PNQ)</item>
+        <item>Hyderabad (HYD)</item>
+        <item>Patan (PAT)</item>
+        <item>Jaipur (JAI)</item>
+    </string-array>
+</resources>
